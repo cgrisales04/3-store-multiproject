@@ -1,0 +1,13 @@
+rootProject.name = 'store'
+
+include 'product-service'
+include 'customer-service'
+include 'shopping-service'
+include 'config-service'
+include 'eureka-service'
+include 'gateway-service'
+include 'admin-service'
+include 'bookings-service'
+include 'movie-service'
+include 'showtimes-service'
+include 'user-service'
